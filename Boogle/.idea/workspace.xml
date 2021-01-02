@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9d67ecf-8ddf-4422-a590-968f12278338" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1mUnObnwSyRnaHRqd9vHbIqUIsH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhuol\IdeaProjects\Boogle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BoggleGame">
+    <configuration name="BoggleBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoggleBoard" />
+      <module name="Boogle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoggleGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoggleGame" />
+      <module name="Boogle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BoggleGame" />
+        <item itemvalue="Application.BoggleBoard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d67ecf-8ddf-4422-a590-968f12278338" name="Default Changelist" comment="" />
+      <created>1609557005629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609557005629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4073" y="462" key="#Project_Structure" timestamp="1609557018266">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4073" y="462" key="#Project_Structure/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609557018266" />
+    <state x="4177" y="626" key="com.intellij.ide.util.TipDialog" timestamp="1609557057936">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4177" y="626" key="com.intellij.ide.util.TipDialog/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609557057936" />
+  </component>
+</project>

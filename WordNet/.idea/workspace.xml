@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a1630b5-d3f5-425c-862f-51f9e08d9118" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mM9tIJCaTCYdVJDxBxjOLidQvs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/wordnet" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhuol\IdeaProjects\wordnet\src\solution" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="solution" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhuol\IdeaProjects\wordnet\src\wordnet" />
+      <recent name="C:\Users\zhuol\IdeaProjects\wordnet\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WordNetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wordnet" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordNetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordNetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a1630b5-d3f5-425c-862f-51f9e08d9118" name="Default Changelist" comment="" />
+      <created>1609292805134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609292805134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="77" key="#Project_Structure" timestamp="1609292815714">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="77" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1609292815714" />
+    <state x="3933" y="555" width="1095" height="495" key="DiffContextDialog" timestamp="1609308938650">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="3933" y="555" width="1095" height="495" key="DiffContextDialog/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609308938650" />
+    <state x="4363" y="696" width="258" height="268" key="Github.ShareDialog" timestamp="1609310081176">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4363" y="696" width="258" height="268" key="Github.ShareDialog/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609310081176" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1609311822176">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609311822176" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1609311822176">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609311822176" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1609311822176">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609311822176" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1609311822176">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609311822176" />
+    <state x="4497" y="628" key="com.intellij.ide.util.TipDialog" timestamp="1609379390921">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4497" y="628" key="com.intellij.ide.util.TipDialog/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609379390921" />
+    <state x="4216" y="696" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609308714780">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4216" y="696" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609308714780" />
+    <state x="4475" y="462" width="651" height="685" key="dock-window-1" timestamp="1609297218696">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4475" y="462" width="651" height="685" key="dock-window-1/0.0.1280.760/3840.462.1280.680@0.0.1280.760" timestamp="1609297218696" />
+    <state x="4475" y="462" width="651" height="685" key="dock-window-2" timestamp="1609379393616">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4475" y="462" width="651" height="685" key="dock-window-2/0.0.1280.760/3840.462.1280.680@0.0.1280.760" timestamp="1609306492637" />
+    <state x="4475" y="462" width="651" height="685" key="dock-window-2/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609379393616" />
+    <state x="4120" y="465" width="1029" height="746" key="dock-window-3" timestamp="1609306957011">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="4120" y="465" width="1029" height="746" key="dock-window-3/0.0.1280.760/3840.462.1280.680@0.0.1280.760" timestamp="1609306957011" />
+    <state x="3931" y="462" key="new project wizard" timestamp="1609482138998">
+      <screen x="3840" y="462" width="1280" height="680" />
+    </state>
+    <state x="3931" y="462" key="new project wizard/0.0.1280.760/3840.462.1280.680@3840.462.1280.680" timestamp="1609482138998" />
+    <state x="298" y="171" key="run.anything.popup" timestamp="1609304848960">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="298" y="171" key="run.anything.popup/0.0.1280.760/3840.462.1280.680@0.0.1280.760" timestamp="1609304848960" />
+  </component>
+</project>
