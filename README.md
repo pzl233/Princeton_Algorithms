@@ -33,7 +33,7 @@ We calculate the energy (the importance)using the dual-gradient energy function 
  
  Week 3 - Maximum Flow and Minimum Cut
  --------------------------------
-  - [**BaseballElimination.java**](https://github.com/pzl233/Princeton_Algorithms/tree/master/BaseballElimination) - a data type that solves baseball elimination problem. 
+  - [**BaseballElimination**](https://github.com/pzl233/Princeton_Algorithms/tree/master/BaseballElimination) - a data type that solves baseball elimination problem. 
    In the [baseball elimination problem](https://en.wikipedia.org/wiki/Maximum_flow_problem#Baseball_elimination), there is a division consisting of `n` teams. At some point during the season, team `i` has `w[i]` wins,  `l[i]` losses, `r[i]` remaining games, and `g[i][j]` games left to play against team `j`. A team is mathematically eliminated if it cannot possibly finish the season in (or tied for) first place. The goal is to determine exactly which teams are mathematically eliminated.  For simplicity, we assume that no games end in a tie (as is the case in Major League Baseball) and that there are no rainouts (i.e.,  every scheduled game is played).  The problem is not as easy as many sports writers would have you believe, in part because the answer depends not only on the number of games won and left to play, but also on the schedule of remaining games. To see the complication, consider the following scenario: 
 
   
