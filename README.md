@@ -1,7 +1,7 @@
 # Princeton_Algorithms
 Code for programming assignments in Java for mainly the coursera course, [Algorithms Part II](https://www.coursera.org/learn/algorithms-part2).
 KDTrees was the only assignment avaliable to me for Part I due to a disk failure.
-All assignments were finished a few month ago, but at that time I didn't have a habit of uploading codes using version controls.
+All assignments were finished a few month ago, but at that time I didn't have a habit of maintaining codes using version controls.
 Rewrote some methods and added a few comments to improve the readability of the code.
 
 Week 1 - Directed and Undirected Graphs
