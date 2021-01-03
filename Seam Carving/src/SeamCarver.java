@@ -2,13 +2,14 @@ import edu.princeton.cs.algs4.Picture;
 
 import java.awt.Color;
 
+/**
+ * This class represents a data type that re-sizes a W-by-H image using the seam-carving technique.
+ */
 public class SeamCarver {
     private Picture p;
     private int W;
     private int H;
     private final int[][] color;
-
-   // private static final double INFINITY = Double.MAX_VALUE;
 
 
     /**
